@@ -9,3 +9,5 @@ I'm a Brazilian Software Developer.
 Currently I'm focused on 
 - 📚 Studying Javascript
 - 💻 Working with PHP & React
+
+> Evolving every day
