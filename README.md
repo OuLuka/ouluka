@@ -7,7 +7,7 @@
 I'm a Brazilian Software Developer. 
 
 Currently I'm focused on 
-- 📚 Studying Javascript
+- 📚 Studying Node & TypeScript
 - 💻 Working with PHP & React
 
 > Evolving every day
